@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranesh
-- 👀 I’m interested in IT
+- 👀 I’m interested in cloud
 - 🌱 I’m currently learning AWS Devops
 - 💞️ I’m looking to collaborate on growing organisation.
 
